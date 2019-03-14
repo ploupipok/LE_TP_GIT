@@ -1,0 +1,15 @@
+body {
+    background-color: antiquewhite;
+    display: flex;
+}
+
+div {
+}
+
+div div {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    background-color:  orangered;
+    color: black;
+}
